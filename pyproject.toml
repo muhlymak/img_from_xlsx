@@ -1,0 +1,11 @@
+[project]
+name = "oa-img"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "openpyxl-image-loader>=1.0.5",
+    "openpyxl>=3.1.5",
+    "pillow>=11.0.0",
+]
